@@ -1,0 +1,6 @@
+C:\Users\vinograd\source\repos\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.dll
+C:\Users\vinograd\source\repos\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\vinograd\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\vinograd\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\vinograd\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.dll
+C:\Users\vinograd\source\repos\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
